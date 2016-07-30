@@ -16,7 +16,7 @@ consistent coding styles between  [editorconfig](http://editorconfig.org/)
 - Add /rename this folder/test.py
 
 ### Changed
-_ add /db to ignore
+- Add /db to ignore
 
 ## 0.0.1 - 2016-07-31
 ### Added
